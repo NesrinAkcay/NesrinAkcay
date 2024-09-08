@@ -22,7 +22,7 @@
     </a>
   </p>
 </h2>
-
+<hr>
 <p align="center">
   <a href="https://github.com/NesrinAkcay" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=NesrinAkcay&show_icons=true&theme=react&rank_icon=github" alt="NesrinAkcay's Stats" />
