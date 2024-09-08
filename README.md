@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 <!--
 **NesrinAkcay/NesrinAkcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
