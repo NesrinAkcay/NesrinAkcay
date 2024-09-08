@@ -35,7 +35,8 @@
 
 Here are some ideas to get you started:
 
-- i am from Turkey, currently living in Germany
+- i am from Turkey
+- currently living in Germany
 - currently learning SQL
 - coding
 - Pronouns: she/her
