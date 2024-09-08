@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
+  <a href="https://github.com/NesrinAkcay" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react&rank_icon=github" alt="NesrinAkcay's Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NesrinAkcay&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
