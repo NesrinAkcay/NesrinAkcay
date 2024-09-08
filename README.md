@@ -13,7 +13,7 @@
 
 <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
 </table>
-
+<hr>
 <!-- Social icons section -->
 <h1 align="center"> Contact: </h1>
   <p align="center">
