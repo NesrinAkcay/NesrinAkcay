@@ -22,7 +22,7 @@
     </a>
   </p>
 </h2>
-
+<br/>
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react&rank_icon=github" alt="LeonardoYz's Stats" />
