@@ -23,7 +23,7 @@
   </p>
 </h2>
 
-<hr>
+
 
 Here are some ideas to get you started:
 
