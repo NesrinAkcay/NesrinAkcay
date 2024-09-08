@@ -14,7 +14,7 @@
 </table>
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
+<h1 align="center"> Contact: </h1>
   <p align="center">
   
 <a href="mailto:nesrin.akcays08@gmail.com">
