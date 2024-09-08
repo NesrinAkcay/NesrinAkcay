@@ -7,7 +7,7 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <hr>
 
-## Languages
+## 🗺️ - Languages
 <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★☆</a></td></tr>
 <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
 </table>
