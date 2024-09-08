@@ -17,7 +17,7 @@
 <h1 align="center"> Social Media: </h1>
   <p align="center">
  <a href="insta:nesrin.akcays">
-     <img src="https://cdn3.vectorstock.com/i/1000x1000/04/77/instagram-logo-insta-realistic-social-media-icon-vector-46180477.jpg">
+     <img src="https://img.shields.io/badge/SEND%20DM-7cebf5?&style=for-the-badge&logo=DM.RU&logoColor=black">
  </a>
   </p>
   </h1>
