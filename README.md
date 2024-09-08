@@ -16,7 +16,7 @@
 <!-- Social icons section -->
 <h1 align="center"> Contact: </h1>
   <p align="center">
-  <br/>
+  
 <a href="mailto:nesrin.akcays08@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
