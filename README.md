@@ -33,8 +33,9 @@
 </p>
 </details>
 <br>
+<hr>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-Here are some ideas to get you started:
 
 - i am from Turkey
 - currently living in Germany
