@@ -1,7 +1,7 @@
 ## Hi, here is Nesrin..;)
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-## 📟 - Tecnologies
+## 📟 - Technologies
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
