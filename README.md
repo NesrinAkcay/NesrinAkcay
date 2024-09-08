@@ -9,8 +9,8 @@
 
 <table>
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★★★</a></td></tr>
 </table>
 
 <!-- Social icons section -->
