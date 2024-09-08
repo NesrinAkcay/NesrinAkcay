@@ -16,11 +16,8 @@
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
-    <a href="https://stackoverflow.com/users/story/16787643">
-      <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
     
-    </a>
-   <a href="mailto:nesrin.akcays08@gmail.com">
+ <a href="mailto:nesrin.akcays08@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
