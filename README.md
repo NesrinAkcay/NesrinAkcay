@@ -16,7 +16,12 @@
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
-    
+ <a href="insta:nesrin.akcays">
+     <img src="https://cdn3.vectorstock.com/i/1000x1000/04/77/instagram-logo-insta-realistic-social-media-icon-vector-46180477.jpg">
+ </a>
+  </p>
+  </h1>
+  
  <a href="mailto:nesrin.akcays08@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
